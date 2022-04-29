@@ -1,0 +1,15 @@
+_____________________________________________________________
+
+Requirements:
+
+    1. Make sure you have 'pywhatkit' Python Library installed, if not, then: (in your terminal)
+       - pip install pywhatkit
+    
+    2. Make sure "./src" directory is empty before you start.
+
+    3. A source image and it's ASCII art has been provided in the resp. dir. already as an eg.
+_____________________________________________________________
+
+
+That's it.
+Thanks!
